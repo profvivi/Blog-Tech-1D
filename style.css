@@ -6,6 +6,9 @@ header {
     margin: 0 auto;
 }
 
+h1{
+    color: #e60404;
+}
 main{
     background-color: #e2e7cc;
     color: #013005;
